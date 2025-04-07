@@ -1,0 +1,11 @@
+release/audiomanager.o
+release/codecmanager.o
+release/main.o
+release/mainwindow.o
+release/networkmanager.o
+release/settingsmanager.o
+release/moc_audiomanager.o
+release/moc_codecmanager.o
+release/moc_mainwindow.o
+release/moc_networkmanager.o
+release/moc_settingsmanager.o

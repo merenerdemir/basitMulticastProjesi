@@ -1,0 +1,11 @@
+debug/audiomanager.o
+debug/codecmanager.o
+debug/main.o
+debug/mainwindow.o
+debug/networkmanager.o
+debug/settingsmanager.o
+debug/moc_audiomanager.o
+debug/moc_codecmanager.o
+debug/moc_mainwindow.o
+debug/moc_networkmanager.o
+debug/moc_settingsmanager.o
