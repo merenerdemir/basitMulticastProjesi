@@ -1,5 +1,6 @@
 Multicast Sesli İletişim Uygulaması
-Bu uygulama, ağ üzerinden UDP multicast protokolü kullanarak gerçek zamanlı sesli iletişim sağlar. Yüksek kaliteli ses iletimi için Opus codec kullanır ve ağ gecikmelerini yönetmek için jitter buffer sistemi içerir.
+Bu uygulama, ağ üzerinden UDP multicast protokolü kullanarak gerçek zamanlı sesli iletişim sağlar.
+Yüksek kaliteli ses iletimi için Opus codec kullanır ve ağ gecikmelerini yönetmek için jitter buffer sistemi içerir.
 
 Gerekli Kütüphaneler
 Qt Framework (5.15.0+): https://www.qt.io/download
