@@ -4,8 +4,11 @@ Yüksek kaliteli ses iletimi için Opus codec kullanır ve ağ gecikmelerini yö
 
 Gerekli Kütüphaneler
 Qt Framework (5.15.0+): https://www.qt.io/download
+
 PortAudio (v19+): http://www.portaudio.com/download.html
+
 Opus Codec (1.3+): https://opus-codec.org/downloads/
+
 ASIO (1.12.0+): https://think-async.com/Asio/Download.html
 
 Donanım Gereksinimleri
